@@ -8,7 +8,6 @@ fig, ax = plt.subplots()
 plt.subplots_adjust(left=0.1, bottom=0.3)
 p, = plt.plot(x, y, linewidth=2, color='blue')
 
-
 ICON_Python = plt.imread('python-icon.png')
 
 axButton1 = plt.axes([0.1, 0.1, 0.1, 0.1]) #left, bottom, width, height
