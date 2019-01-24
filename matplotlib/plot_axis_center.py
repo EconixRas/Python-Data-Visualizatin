@@ -25,7 +25,6 @@ cos, sin = np.cos(x), np.sin(x)
 plt.plot(x, cos, color='tomato', linewidth=2, linestyle='-', label='cos')
 plt.plot(x, sin, color='teal', linewidth=2, linestyle='-', label='sin')
 
-
 plt.xticks(	[-np.pi, -np.pi/2, 0, np.pi/2, np.pi], 
 			[r'$-\pi$', r'$-\pi/2$', r'$0$', r'$+\pi/2$', r'$+\pi$'])
 plt.yticks(	[-1, 0, +1], [r'$-1$', r'$0$', r'$+1$'])
