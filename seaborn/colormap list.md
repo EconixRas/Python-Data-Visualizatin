@@ -1,4 +1,4 @@
-# Test
+# Seaborn colormap list
 
 |  Colormap |
 |---|
