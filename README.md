@@ -1,2 +1,6 @@
 # Python-Data-Visualizatin
-Python Data Visualization
+
+    pip install seaborn
+    
+
+    pip install matplotlib
