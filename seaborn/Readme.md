@@ -1,0 +1,4 @@
+# seaborn supporting information
+
+### sample dataset list:
+['anscombe', 'attention', 'brain_networks', 'car_crashes', 'diamonds', 'dots', 'exercise', 'flights', 'fmri', 'gammas', 'iris', 'mpg', 'planets', 'tips', 'titanic']
